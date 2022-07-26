@@ -1,7 +1,0 @@
-{
-  "name": "crossplatform-blueprint",
-  "integrations": {
-    "cordova": {}
-  },
-  "type": "angular"
-}
